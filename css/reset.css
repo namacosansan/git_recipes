@@ -104,7 +104,8 @@ reset.css では足りない初期化を追加
 /* 画像に関する初期設定*/
 img {
   /* 大きい画像がはみ出さないように*/
-  max-width: 100%;
+  max-width: 300px;
+  height: auto;
   /* 画像周りの無駄なスペースができないように*/
   vertical-align: bottom;
 }
