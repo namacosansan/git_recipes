@@ -178,6 +178,14 @@ article.index .lead {
   margin-bottom: 20px;
 }
 
+.recipe-image {
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
 .recipe-list {
   list-style: none;
   padding: 0;
